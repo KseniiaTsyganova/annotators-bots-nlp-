@@ -1,2 +1,2 @@
-# annotators-bots-nlp-
+# annotators-bots-nlp
 Finding bots among annotators
